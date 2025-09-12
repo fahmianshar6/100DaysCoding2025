@@ -3,7 +3,7 @@ public class day5 {
      int umur = 20;
         System.out.println(umur);
 
-        long jumlahikan = 2000;
+        long jumlahikan = 20000000L;
         System.out.println(jumlahikan);
 
         short jumlahsapi = 200;
@@ -13,3 +13,4 @@ public class day5 {
         System.out.println(jumlahayam);
     }
 }
+
