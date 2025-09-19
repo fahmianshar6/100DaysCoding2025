@@ -12,15 +12,14 @@ public class day12 {
 
         System.out.print("masukkan umur:");
         byte umur = sc.nextByte();
-         sc.nextLine();
-        System.out.print(" tgl:");
-        String tgl = sc.nextLine();
+        
         System.out.println();
 
         System.out.println("=========== bio data saya ==============");
         System.out.println(nama);
         System.out.println(alamat);
         System.out.println(umur);
-        System.out.println(tgl);
+        
     }
 }
+
