@@ -1,7 +1,7 @@
 public class day19 {
     public static void main(String[] args) {
         // Tipe data besar
-        double nilaiDouble = 99.75;
+        double nilaiDouble = 77.65;
         int nilaiInt;
 
         // Konversi manual
@@ -12,3 +12,4 @@ public class day19 {
         System.out.println("Nilai int    : " + nilaiInt);
     }
 }
+
