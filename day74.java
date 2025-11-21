@@ -27,9 +27,13 @@ public class day74 {
 
             case 3 :
                 System.out.println("anda memilih cash pubg");
+                
+                break;
 
             case 4 :
                 System.out.println("anda memilih keluar");
+                
+                break;
         }
 
 
@@ -38,3 +42,4 @@ public class day74 {
         }while (pilih !=4);
     }
 }
+
