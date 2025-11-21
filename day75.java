@@ -7,7 +7,8 @@ public class day75 {
         String a = sc.nextLine();
 
         System.out.println("panjang text  :"+a.length());
-        System.out.println("huruf kecil   :"+a.toUpperCase());
-        System.out.println("huruf kapital :"+a.toLowerCase());
+        System.out.println("huruf besar   :"+a.toUpperCase());
+        System.out.println("huruf kecil :"+a.toLowerCase());
     }
 }
+
